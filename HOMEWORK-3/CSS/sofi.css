@@ -1,0 +1,14 @@
+body {
+    background-color: blue;
+}
+/* #CORO {
+    position: relative;
+    text-align: center;
+
+} */
+#me {
+    position: relative;
+    top: -150px;
+    left: 50px;
+    color: white
+}
